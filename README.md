@@ -16,22 +16,22 @@ This repository contains the complete research and analysis for the project **"T
 
 ## Codes
 
-### Data Preprocessing (01_data_preprocessing.ipynb)
+### Data Preprocessing 
 - Data cleaning and transformation
 - Handling missing values and outliers
 - Feature engineering for time-series analysis
 
-### Exploratory Data Analysis (02_eda.ipynb)
+### Exploratory Data Analysis 
 - Trend analysis of gasoline prices
 - Volatility and seasonal pattern identification
 - Statistical correlation studies
 
-### Predictive Modeling (03_modeling.ipynb)
+### Predictive Modeling 
 - Vector Autoregression (VAR) model for time-series prediction
 - Granger causality tests to identify lead-lag relationships
 - Machine learning models for financial forecasting
 
-### Results and Discussion (04_results_discussion.ipynb)
+### Results and Discussion 
 - Interpretation of model outputs
 - Impact assessment on energy sector returns
 - Final report preparation and visualization
