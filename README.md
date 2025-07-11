@@ -1,5 +1,5 @@
 # Citadel-Datathon-submission
-Team submission Codes and Report for Citadel and Correlation One's Dadathon 2025
+Team submission Codes and Report for Citadel and Correlation One's Datathon 2025
 
 # Gasoline Price Impact Analysis
 
